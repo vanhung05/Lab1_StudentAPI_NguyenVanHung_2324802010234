@@ -8,7 +8,7 @@
 
 > ⏯️ Ảnh động xem nhanh chức năng hệ thống:
 
-![Demo GIF](https://github.com/vanhung05/Lab1_StudentAPI_NguyenVanHung_2324802010234/releases/download/v1.0/ezgif-6511d444d8df95d2.gif)
+![Demo GIF](https://raw.githubusercontent.com/vanhung05/Lab1_StudentAPI_NguyenVanHung_2324802010234/master/ezgif-6511d444d8df95d2.gif)
 
 ---
 
